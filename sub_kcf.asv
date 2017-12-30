@@ -1,0 +1,10 @@
+classdef sub_kcf
+
+function [ pos ] = sub_kcf( patch , pos , sub_target_sz , ...
+                 sub_window_sz, output_sigma ,   padding , ...
+                 lambda, cell_size , sub_yf , sub_cos_window)
+    
+
+
+end
+
